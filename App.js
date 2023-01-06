@@ -1,7 +1,7 @@
-import React, {Component} from "react";
-import { StyleSheet, Text, TouchableOpacity, View, Image } from "react-native";
+import React, {Component} from 'react';
+import { StyleSheet, Text, TouchableOpacity, View, Image } from 'react-native';
 
-function Load(props) {
+function App(props) {
   return (
     <View style={styles.container}>
       <View style={styles.imageStackStack}>
@@ -117,4 +117,4 @@ const styles = StyleSheet.create({
   }
 });
 
-export default Load;
+export default App;
