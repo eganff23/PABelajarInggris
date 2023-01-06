@@ -1,7 +1,7 @@
 # PABelajarInggris
 # projectakhir
 Tugas akhir mata kuliah Aplikasi Mobile Bebasis Web React Native "BELAJAR BAHASA INGGRIS UNTUK ANAK USIA DINI"
-# Ega Nanda Fadilatul Fitriyah (201969040009)
+# Ega Nanda Fadilatul Fitriyah (201969040006)
 # APP
 Balajar Bahasa Inggris Untuk Usia Dini
 * materi (huruf, angka, bagian tubuh, hewan, keluarga)
